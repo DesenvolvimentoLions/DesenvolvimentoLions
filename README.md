@@ -1,5 +1,4 @@
-# -DesenvolvimentoLions-
-🛠️ Time de Desenvolvimento | Lions Seminovos
+# 🛠️ Time de Desenvolvimento | Lions Seminovos
 
 ## Minhas Estatísticas
 
