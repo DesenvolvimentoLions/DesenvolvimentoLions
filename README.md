@@ -1,9 +1,9 @@
 # 🛠️ Time de Desenvolvimento | Lions Seminovos
 
-👨‍💻 Time de Desenvolvimento
-🚀 Construindo soluções escaláveis
-🛠️ Boas práticas, código limpo e testes
-🤝 Trabalho colaborativo e ágil
+👨‍💻 Time de Desenvolvimento 
+🚀 Construindo soluções escaláveis 
+🛠️ Boas práticas, código limpo e testes 
+🤝 Trabalho colaborativo e ágil 
 💡 Foco em performance, qualidade e produto 
 
 ## Minhas Estatísticas
